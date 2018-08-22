@@ -1,4 +1,4 @@
-﻿const channelUrl = "https://www.youtube.com/channel/UCUHzH3aSxoa9wRudh4V1H-A";
+﻿const channelUrl = "https://gaming.youtube.com/user/theCHAIZYchannel/live";
 
 var notificationSound = new Audio("sounds/live.mp3");
 
